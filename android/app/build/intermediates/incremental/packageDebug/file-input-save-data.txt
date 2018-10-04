@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Oct 04 20:24:33 ICT 2018
+#Thu Oct 04 22:01:00 ICT 2018
 20.base=/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/res/resources-debug.ap_
 143.base=/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/res/resources-debug.ap_
 439.set=ANDROID_RESOURCE

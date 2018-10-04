@@ -4,14 +4,6 @@
         "source": "/Users/lequocduong/Documents/lvtn/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Users/lequocduong/Documents/Projects/lvtn2019/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
-        "source": "/Users/lequocduong/Documents/Projects/lvtn2019/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/lequocduong/Documents/lvtn/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

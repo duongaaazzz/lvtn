@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/lequocduong/Documents/lvtn/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/lequocduong/Documents/lvtn/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
