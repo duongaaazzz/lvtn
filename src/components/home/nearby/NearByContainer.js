@@ -4,7 +4,7 @@
 
 import React from 'react';
 import {connect} from 'react-redux';
-import {View, Text, FlatList} from 'react-native'
+import {View, Text, FlatList,TouchableOpacity} from 'react-native'
 
 import ItemCardEvent from '../ItemCardEvent'
 import {backgroundColor} from '../../../constants/color';
@@ -21,6 +21,7 @@ class NearByContainer extends React.Component {
     return (
       <View style={{justifyContent: 'center', alignItems: 'center', backgroundColor: backgroundColor}}>
         <View style={{elevation:0}}>
+
           <FlatList
             keyExtractor={(item, index) => index.toString()}
             data={this.dataSource}

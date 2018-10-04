@@ -1,7 +1,4 @@
-#Tue Sep 11 15:48:22 ICT 2018
-base.0=/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9e244a36da1eba526c737e4e5fd80c806fb1425
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4ecf97bf8ac35eada5516b4b379106acd110642/classes.dex
-base.1=/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4ecf97bf8ac35eada5516b4b379106acd110642
-file.0=/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9e244a36da1eba526c737e4e5fd80c806fb1425/classes.dex
+#Thu Oct 04 20:24:33 ICT 2018
+base.0=/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

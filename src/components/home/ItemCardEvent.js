@@ -34,6 +34,7 @@ class ItemCardEvent extends React.Component {
           justifyContent: 'center',
           alignItems: 'center'
         }}>
+
           <View style={{
             flexDirection: 'row',
             flex: 1,

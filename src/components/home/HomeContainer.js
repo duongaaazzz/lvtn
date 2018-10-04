@@ -12,7 +12,9 @@ class HomeContainer extends React.Component {
 
   render() {
     return (
-      <HomeSwitch />
+      <HomeSwitch ref={navigatorRef => {
+        NavigationServices.setTopLevelNavigatorHomeTab(navigatorRef);
+      }} />
     )
   }
 }

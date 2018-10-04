@@ -15,7 +15,7 @@ export default class HomeTabContainer extends React.Component {
     return (
       <View style={{flex: 1}}>
         <HomeTab ref={navigatorRef => {
-          NavigationServices.setTopLevelNavigatorHomeTab(navigatorRef);
+          NavigationServices.setTopLevelNavigatorHomeSwitch(navigatorRef);
         }}/>
       </View>
     )
