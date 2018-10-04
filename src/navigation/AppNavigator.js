@@ -102,7 +102,8 @@ export const AppNavigator = createSwitchNavigator({
     screen: AuthenticationContainer
   },
   [RouteKey.LoginScreen]: {
-    screen: LoginContainer
+    //screen: LoginContainer
+    screen: MainTabContainer
   },
   [RouteKey.VerificationContainer]: {
     screen: VerificationContainer

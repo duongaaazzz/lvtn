@@ -1,129 +1,153 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\e7a5083c68edb57196d7d70f922fca0a\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\50d31703979e1a4a3697b9cde7529737\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cd5e28ff936165a1eec145812441590a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7753a4246f174953b0f80b2917c63f98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fa2405ac780c9faa541dfd427bf83a77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a7630e6b5dbf6cc18147cd5d211df588\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\97eef5ce2c4cce48156a7c6695206168\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ca7ec81b9eaa3b27916ca2e4972d646\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\15090d969af3fc5e18b85c0f51dd6302\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\aca3bade30bf9418ad454e0ff2eae9eb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\9542ce4ace0a04e2a04e1da692e76498\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\2f3d3ae5189eb677a8ee876f5bd5f601\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5c4db5fd684daff186847914c1b6ffcb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\45721d330c63620e591f01daba97b338\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\efbb8094a5aa50b9921702bb04880bca\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7aa087cc38a3a7e47c77bd15060fb7a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ddebf345b86bac6c3e747021a638e744\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\71067465bc846874daa9829f5d753e90\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a486de9c7506c7377493c88b57fa5cd8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b205fe41374798a0cd50a5f8d96cc1b\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:2:5-27
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:2:5-27
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:1:11-69
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/lequocduong/.android/build-cache/9444b41733abcda6c7ac57ef4144e0ff976f0ed0/output/AndroidManifest.xml:11:5-78
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\e7a5083c68edb57196d7d70f922fca0a\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\e7a5083c68edb57196d7d70f922fca0a\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:5:22-75
 application
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/lequocduong/.android/build-cache/9444b41733abcda6c7ac57ef4144e0ff976f0ed0/output/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/lequocduong/.android/build-cache/793c1aff162cb48b50aac9aa255e54ff3aef5b76/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lequocduong/.android/build-cache/563d06380cc742fe074a28049105092420fa572e/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/lequocduong/.android/build-cache/8a4d1dd888ab76cfdafcd23b37931a99f378afb4/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lequocduong/.android/build-cache/541f4d78c1b0c429edabd281973ee129c8f3e2d9/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lequocduong/.android/build-cache/750632760f1912497034f8ec7f1259533d72a323/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lequocduong/.android/build-cache/37bc341635895e5ee4f0f031fcd8907174a24488/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lequocduong/.android/build-cache/e44580599bc4041a888faad164a555aa4f62e1e6/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/lequocduong/.android/build-cache/2bcf9f2315ad9a851492e23c2b6d7191e8ae3f88/output/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/lequocduong/.android/build-cache/572535f777bfaf6551397d48d4606d6435e05800/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/lequocduong/.android/build-cache/32efda5617a1367881978b4b15b9efa06d5dba40/output/AndroidManifest.xml:11:5-20
-MERGED from [org.webkit:android-jsc:r174650] /Users/lequocduong/.android/build-cache/60401c6f306392956c369d50538600f4e272be8b/output/AndroidManifest.xml:2:3-17
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\e7a5083c68edb57196d7d70f922fca0a\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\e7a5083c68edb57196d7d70f922fca0a\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\45721d330c63620e591f01daba97b338\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\45721d330c63620e591f01daba97b338\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\efbb8094a5aa50b9921702bb04880bca\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\efbb8094a5aa50b9921702bb04880bca\AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:9:7-39
-	android:allowBackup
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:8:7-38
 activity#com.lvtn2019.MainActivity
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:14:9-37
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:18:9-21:25
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [lvtn2019:react-native-vector-icons:unspecified] /Users/lequocduong/Documents/lvtn/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.56.0] /Users/lequocduong/.android/build-cache/9444b41733abcda6c7ac57ef4144e0ff976f0ed0/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] /Users/lequocduong/.android/build-cache/793c1aff162cb48b50aac9aa255e54ff3aef5b76/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lequocduong/.android/build-cache/563d06380cc742fe074a28049105092420fa572e/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/lequocduong/.android/build-cache/8a4d1dd888ab76cfdafcd23b37931a99f378afb4/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lequocduong/.android/build-cache/541f4d78c1b0c429edabd281973ee129c8f3e2d9/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lequocduong/.android/build-cache/750632760f1912497034f8ec7f1259533d72a323/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lequocduong/.android/build-cache/37bc341635895e5ee4f0f031fcd8907174a24488/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lequocduong/.android/build-cache/e44580599bc4041a888faad164a555aa4f62e1e6/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/lequocduong/.android/build-cache/2bcf9f2315ad9a851492e23c2b6d7191e8ae3f88/output/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/lequocduong/.android/build-cache/572535f777bfaf6551397d48d4606d6435e05800/output/AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/lequocduong/.android/build-cache/7bd0c01b12dc412ba69af468d3249b079c3880b7/output/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/lequocduong/.android/build-cache/2b9de448c9d5e635d0a43be401320aa059fb863b/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/lequocduong/.android/build-cache/99c690675f7faad41e5656bcfd9cd836dddca27c/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/lequocduong/.android/build-cache/f4df312425ffec19a8ca6daab8f97ccdaa837e80/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/lequocduong/.android/build-cache/b1620efc1e715f1835ca8d7c689216674d7e3a56/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/lequocduong/.android/build-cache/050d17beb8a4e79a5d8926deddcb19f464e502a0/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/lequocduong/.android/build-cache/8aa48a3b95c602816cd11f829a73d8dc6ee7009f/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/lequocduong/.android/build-cache/32efda5617a1367881978b4b15b9efa06d5dba40/output/AndroidManifest.xml:7:5-9:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/AndroidManifest.xml:23:9-75
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\e7a5083c68edb57196d7d70f922fca0a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\e7a5083c68edb57196d7d70f922fca0a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\50d31703979e1a4a3697b9cde7529737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\50d31703979e1a4a3697b9cde7529737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cd5e28ff936165a1eec145812441590a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cd5e28ff936165a1eec145812441590a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7753a4246f174953b0f80b2917c63f98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7753a4246f174953b0f80b2917c63f98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fa2405ac780c9faa541dfd427bf83a77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fa2405ac780c9faa541dfd427bf83a77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a7630e6b5dbf6cc18147cd5d211df588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a7630e6b5dbf6cc18147cd5d211df588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\97eef5ce2c4cce48156a7c6695206168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\97eef5ce2c4cce48156a7c6695206168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ca7ec81b9eaa3b27916ca2e4972d646\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ca7ec81b9eaa3b27916ca2e4972d646\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\15090d969af3fc5e18b85c0f51dd6302\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\15090d969af3fc5e18b85c0f51dd6302\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\aca3bade30bf9418ad454e0ff2eae9eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\aca3bade30bf9418ad454e0ff2eae9eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\9542ce4ace0a04e2a04e1da692e76498\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\9542ce4ace0a04e2a04e1da692e76498\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\2f3d3ae5189eb677a8ee876f5bd5f601\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\2f3d3ae5189eb677a8ee876f5bd5f601\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5c4db5fd684daff186847914c1b6ffcb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5c4db5fd684daff186847914c1b6ffcb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\45721d330c63620e591f01daba97b338\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\45721d330c63620e591f01daba97b338\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7aa087cc38a3a7e47c77bd15060fb7a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7aa087cc38a3a7e47c77bd15060fb7a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ddebf345b86bac6c3e747021a638e744\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ddebf345b86bac6c3e747021a638e744\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\71067465bc846874daa9829f5d753e90\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\71067465bc846874daa9829f5d753e90\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a486de9c7506c7377493c88b57fa5cd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a486de9c7506c7377493c88b57fa5cd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b205fe41374798a0cd50a5f8d96cc1b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rikik\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b205fe41374798a0cd50a5f8d96cc1b\AndroidManifest.xml:20:5-44
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/lequocduong/.android/build-cache/793c1aff162cb48b50aac9aa255e54ff3aef5b76/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/lequocduong/.android/build-cache/563d06380cc742fe074a28049105092420fa572e/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/lequocduong/.android/build-cache/8a4d1dd888ab76cfdafcd23b37931a99f378afb4/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/lequocduong/.android/build-cache/541f4d78c1b0c429edabd281973ee129c8f3e2d9/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/lequocduong/.android/build-cache/750632760f1912497034f8ec7f1259533d72a323/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/lequocduong/.android/build-cache/37bc341635895e5ee4f0f031fcd8907174a24488/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/lequocduong/.android/build-cache/e44580599bc4041a888faad164a555aa4f62e1e6/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/lequocduong/.android/build-cache/2bcf9f2315ad9a851492e23c2b6d7191e8ae3f88/output/AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/AndroidManifest.xml:27:13-51
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/lequocduong/.android/build-cache/572535f777bfaf6551397d48d4606d6435e05800/output/AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/lequocduong/.android/build-cache/572535f777bfaf6551397d48d4606d6435e05800/output/AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/lequocduong/.android/build-cache/572535f777bfaf6551397d48d4606d6435e05800/output/AndroidManifest.xml:26:13-58
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/lequocduong/Documents/lvtn/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\LVTN2018\lvtn\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

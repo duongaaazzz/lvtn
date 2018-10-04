@@ -52,7 +52,7 @@ class VerificationContainer extends React.Component {
       }else {
         Alert.alert(
           'Warning',
-          'Very code error', [
+          'Verify code error', [
             { text: 'OK', style: 'cancel' },
           ])
       }
@@ -102,7 +102,7 @@ class VerificationContainer extends React.Component {
                               onPress={() => this.verification()}
             >
               {
-                !this.state.isLoading ? <Text style={styles.buttonLable}>Very code</Text> :
+                !this.state.isLoading ? <Text style={styles.buttonLable}>Verify code</Text> :
                   <ActivityIndicator size={'small'} color='white'/>
               }
 

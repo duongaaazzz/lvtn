@@ -1,4 +1,0 @@
-#Thu Oct 04 22:13:37 ICT 2018
-base.0=/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

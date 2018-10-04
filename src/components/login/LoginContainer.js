@@ -56,12 +56,9 @@ class LoginContainer extends React.Component {
 
   render() {
     return (
-
       <KeyboardAvoidingView style={styles.root}>
-
-
         <View style={styles.titileWrapper}>
-          <Text style={styles.text}>Login</Text>
+          <Text style={styles.text}>Login App</Text>
         </View>
         <View style={styles.inputWrapper}>
           {/*<TextInput*/}

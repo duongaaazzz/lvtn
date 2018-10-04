@@ -45,7 +45,7 @@ class AuthenticationContainer extends React.Component {
       <View style={{
         flex: 1,
         justifyContent: 'center',
-        alignItems: 'center'
+        alignItems: 'center',
       }}>
         <Text>check token done</Text>
 

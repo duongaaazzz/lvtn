@@ -3,570 +3,264 @@
 
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/Documents/lvtn/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_b5199970fd33fcb7807ee0156cb59f5d91f04473.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/f4df312425ffec19a8ca6daab8f97ccdaa837e80/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_a56150ecbe358b386e9eb86f20ade5abc8152d04.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/050d17beb8a4e79a5d8926deddcb19f464e502a0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e42679ead079754e0a9e19f4bd5a0213388fcb10/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/99c690675f7faad41e5656bcfd9cd836dddca27c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_499134ceb8e894a6d0caccc2cd61619356ffa5e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/7bd0c01b12dc412ba69af468d3249b079c3880b7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_4f19e8b0d2f0bdddc33d8eb9d010b48a87f459bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/9444b41733abcda6c7ac57ef4144e0ff976f0ed0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_a207c5e93edc67b20315f7e524adf4bd11d01d45.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_025958a4b426fe8109a300c55e16280b06958d41/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/2bcf9f2315ad9a851492e23c2b6d7191e8ae3f88/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_e3062fdcc12792cdb02776b9489b062ca9cb971a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_2e2664b5edcdd68b94e5c613ef8d46d8c3e11a93/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/2b9de448c9d5e635d0a43be401320aa059fb863b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2813ca57abb73c9d214a1c7077115797e82d3371/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_844816da8fea0b0bba03a2db28846b4a327d7097/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/572535f777bfaf6551397d48d4606d6435e05800/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f74eec929c258289e7b3ceda0e4401769b251b23/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/750632760f1912497034f8ec7f1259533d72a323/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_e176844cac11895c2b12b58ee0a8f055cb58c32a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/793c1aff162cb48b50aac9aa255e54ff3aef5b76/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffedae11703e3c33fe0e7012a4aa52e46e265eec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_03ccd7784d99ee67408036e9b2896e1f3929c2e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/541f4d78c1b0c429edabd281973ee129c8f3e2d9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_c9ac83b69002f782060f32f8408b4a3243f17a2c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/8aa48a3b95c602816cd11f829a73d8dc6ee7009f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_ece0f6b34ae5af4e3fb67a250cefa1eb2477c9c5.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_c1d4102280189af793998d4ae0831634c2acaa86/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/b1620efc1e715f1835ca8d7c689216674d7e3a56/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f6acbc7af149c54aef8c14e2f7b910ac12b083a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_d144470ca9f8483caf2fa1c9c98e7d5bfac3c14d/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.10.0\ec614c05825ddd2267677a99f585d3913474b125\okhttp-urlconnection-3.10.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="ec614c05825ddd2267677a99f585d3913474b125">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_8c3d6608017998f1ab0993b8f1b50606bbaf516c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_9dfd896d6f9007499b538b71d3c02331cb431587/classes.dex" />
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.10.0_ce40c6b23a88d3558f504c921be7370d345f20b6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/563d06380cc742fe074a28049105092420fa572e/output/jars/classes.jar"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_0619f9c273377a03823d58b8279aba22b2c4c883.jar" />
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.1_d0fdb525ccfb65127141767d47d6fb74877bb85b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/32efda5617a1367881978b4b15b9efa06d5dba40/output/jars/classes.jar"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_1bf22a6f9f5c67686c71e3f463c7371ab11d0064.jar" />
+        sha1="25ea2e8b0c338a877313bd4672d3fe056ea78f0d">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.2_06a0c1f25ac05c03645ede1c1f91619f5e7d9393.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jar="C:\Users\rikik\.android\build-cache\541e0c05f8bac527bf4683aaa5763de35e0861c2\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="102d7be47241d781ef95f1581d414b0943053130">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_d90268c7347d5b6c814a4e3f51152f629ba82359.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/37bc341635895e5ee4f0f031fcd8907174a24488/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc2a63efc1a99fe4811a78313723e2e53d0c7bd9/classes.dex" />
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_f4ba4e78696cbc7b6f4c6f43f90c9f3a35bac9db.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jar="C:\Users\rikik\.android\build-cache\af05380a910f990e9194059a05e6d31806d5aae1\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2a6e415ec7112ff3618fc6b05f697f97070b0f7b.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9e244a36da1eba526c737e4e5fd80c806fb1425/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/8a4d1dd888ab76cfdafcd23b37931a99f378afb4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4cdf860daf28672f055a1fcb98611f3d847c514/classes.dex" />
+        sha1="26e08c73415d43f2fa1cca5212d2e4d650503ddd">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_81bf650a224ab75ff3daa9a29c96a2f8537168c7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/e44580599bc4041a888faad164a555aa4f62e1e6/output/jars/classes.jar"
+        jar="C:\Users\rikik\.android\build-cache\6f619deb9ec33c31fb260af4841f2ee575093cca\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_d519bdd553c4f653a82df0ba8c6f142066363369.jar" />
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_868cd777e130fb3812de2f0646a9b77d697ae4d1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/050d17beb8a4e79a5d8926deddcb19f464e502a0/output/jars/classes.jar"
+        jar="C:\Users\rikik\.android\build-cache\8499edcd87646bb05f895f996bf39a79c4f070d9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_e42679ead079754e0a9e19f4bd5a0213388fcb10.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_4754fb101c11fd9507a60ab780d9ceabac4ab144/classes.dex" />
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_686ac6ffbd9fa477aef2b1083e56231798868d72.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/99c690675f7faad41e5656bcfd9cd836dddca27c/output/jars/classes.jar"
+        jar="C:\Users\rikik\.android\build-cache\67bebbddb1beed009878076ad8bb539a3adc5139\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_499134ceb8e894a6d0caccc2cd61619356ffa5e2.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/f4df312425ffec19a8ca6daab8f97ccdaa837e80/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a56150ecbe358b386e9eb86f20ade5abc8152d04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/7bd0c01b12dc412ba69af468d3249b079c3880b7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f19e8b0d2f0bdddc33d8eb9d010b48a87f459bc/classes.dex" />
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_6f7041de788fb487fd31efd464aaf83a4cb5383d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2e2664b5edcdd68b94e5c613ef8d46d8c3e11a93.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/2b9de448c9d5e635d0a43be401320aa059fb863b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_2813ca57abb73c9d214a1c7077115797e82d3371.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/2bcf9f2315ad9a851492e23c2b6d7191e8ae3f88/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3062fdcc12792cdb02776b9489b062ca9cb971a/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/572535f777bfaf6551397d48d4606d6435e05800/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_f74eec929c258289e7b3ceda0e4401769b251b23.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/b03684e4b9db286110df1b5600ae9809cb023012/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13af093d1bb9e58ee86385944c3f2ace85a6825c/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/793c1aff162cb48b50aac9aa255e54ff3aef5b76/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_ffedae11703e3c33fe0e7012a4aa52e46e265eec.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/750632760f1912497034f8ec7f1259533d72a323/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e176844cac11895c2b12b58ee0a8f055cb58c32a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="0ad29145cba31116d78afb78024111c06f500c36">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4ecf97bf8ac35eada5516b4b379106acd110642/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_03ccd7784d99ee67408036e9b2896e1f3929c2e2.jar" />
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_74ef41b9daa7d818671d34af3ac61d28ea36ed71.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_844816da8fea0b0bba03a2db28846b4a327d7097.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/541f4d78c1b0c429edabd281973ee129c8f3e2d9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9ac83b69002f782060f32f8408b4a3243f17a2c/classes.dex" />
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\okio-1.14.0_49b0a859e1971d08465adc74a6a2db6459c31b69.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/b1620efc1e715f1835ca8d7c689216674d7e3a56/output/jars/classes.jar"
+        jar="C:\Users\rikik\.android\build-cache\19a16927217a8bfa0f2b4f44107878fb4ced27ab\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_3f6acbc7af149c54aef8c14e2f7b910ac12b083a.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/8aa48a3b95c602816cd11f829a73d8dc6ee7009f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ece0f6b34ae5af4e3fb67a250cefa1eb2477c9c5/classes.dex" />
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_150155d051238b97d286032faa7f31fa8990dd90.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jar="C:\Users\rikik\.android\build-cache\6e3559fa08e6b877f877a147ea6e5efa1512f9c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="df777c6b52d3e1840381b41615b99f290201638d">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_2cd3316486fb43001277783e49c3f28f158e66b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.android\build-cache\56e16108fdada1245252ff63a0a858f5eae6b864\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_c8c158d1c18df45d629d3d5726743493a8398e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.10.0\7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e\okhttp-3.10.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_c1d4102280189af793998d4ae0831634c2acaa86.jar" />
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\okhttp-3.10.0_47d03862a2a55d5ab61c156d7efef8edf11c6b66.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jar="C:\Users\rikik\.android\build-cache\43e06c43b90571f49cab60698f89e2ed0a043cfe\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_9dfd896d6f9007499b538b71d3c02331cb431587.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/32efda5617a1367881978b4b15b9efa06d5dba40/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf22a6f9f5c67686c71e3f463c7371ab11d0064/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/e44580599bc4041a888faad164a555aa4f62e1e6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d519bdd553c4f653a82df0ba8c6f142066363369/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/b03684e4b9db286110df1b5600ae9809cb023012/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_a896b54c9d645e3ebd669c4270f7c3c71dd37568/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ec614c05825ddd2267677a99f585d3913474b125">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_8c3d6608017998f1ab0993b8f1b50606bbaf516c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.android/build-cache/563d06380cc742fe074a28049105092420fa572e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0619f9c273377a03823d58b8279aba22b2c4c883/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_2a6e415ec7112ff3618fc6b05f697f97070b0f7b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.3"
-        sha1="102d7be47241d781ef95f1581d414b0943053130">
-        <dex dex="/Users/lequocduong/Documents/Projects/lvtn2019/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_d90268c7347d5b6c814a4e3f51152f629ba82359/classes.dex" />
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_e4d57735ca8a8c4d729f1ded12f182a2c39a835f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/37bc341635895e5ee4f0f031fcd8907174a24488/output/jars/classes.jar"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_bc2a63efc1a99fe4811a78313723e2e53d0c7bd9.jar" />
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\common-1.1.0_744f19964bff1d67fbb2e771595cef45f4ce093b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="C:\Users\rikik\.android\build-cache\dee37fa9625a7b81263226daf3ffa9a53dc5f0ee\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4754fb101c11fd9507a60ab780d9ceabac4ab144.jar" />
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_ac6b9a49d7c4c4e7e3cbb1a18d0eecfb4655ad62.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/9444b41733abcda6c7ac57ef4144e0ff976f0ed0/output/jars/libs/infer-annotations-4.0.jar"
+        jar="C:\Users\rikik\.android\build-cache\85412681494a041e33332dda73264ca18bd0ffff\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1affce93c49fcc8b63e9be48b4d25106fa066223.jar" />
+        sha1="e3b76ad3c1f40d13f12aa2458deaca8d6820a5e7">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_8ffdcc88d6fa2467f462f54c51dae9b63d5e9b14.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d144470ca9f8483caf2fa1c9c98e7d5bfac3c14d.jar" />
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_6e5c20972bdffc24420f6b88bc14c6119dd0d41f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/23967b2f533abbba641499523d2e127f3207c197/output/jars/classes.jar"
+        jar="C:\Users\rikik\.android\build-cache\07fa5038121e03d6182410fab3174ca855af0c9e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_025958a4b426fe8109a300c55e16280b06958d41.jar" />
+        sha1="2648a2080054daa5ff07cbce9fded91153be4b11">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_b0fb7c5292c1543a17ee21688dd7f3fb2198baae.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/lequocduong/.android/build-cache/8a4d1dd888ab76cfdafcd23b37931a99f378afb4/output/jars/classes.jar"
+        jar="C:\Users\rikik\.android\build-cache\a993542d28a47c9c02111a8b61090c5f907f4e1e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/Users/lequocduong/Documents/lvtn/android/app/build/intermediates/pre-dexed/debug/classes_c4cdf860daf28672f055a1fcb98611f3d847c514.jar" />
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_a8e07d5117fb0906fad4f47a477d82b8da15e630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\common-1.1.0_478292e6e47bb00e996a92844542a37c46368af0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.android\build-cache\288a0a7864f61cd453e7dca15e715c950451fbdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="61741c492af29679431ed009915fe0538dd6b1ce">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_59c258931eaf7fca50c9a4453f4ccb6ac47f516b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.gradle\caches\modules-2\files-2.1\com.facebook.infer.annotation\infer-annotation\0.11.2\f514ff4ca022a579d9cf7524846988b646ae4491\infer-annotation-0.11.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f514ff4ca022a579d9cf7524846988b646ae4491">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\infer-annotation-0.11.2_5175a877b4e236c77b4ee41e987d57f02429182e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.android\build-cache\4b65562ae8db6fbb4b6b4f1d1573afbba1d1f682\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_bae24f9c6a90674f194410c31b2ec9ca40b4c32e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.android\build-cache\86223d94437069c5c300537484e1c3e465357cd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_bba40bba0f2b31060445725d2b0f292df7e3e00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.android\build-cache\11f4d7bc66da382d8bd40af7d529d8514577d807\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a6d015cf6e1403aeea63a2d74766b1c8738fa8bc">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_da5ad2275e70d3acb1b8e50e1a718d4f5b923011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.android\build-cache\ce2393a51434097aa1413563750685fdca554f34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bf98d9bbac6d175c40d9a3d1d8da77fbbcf0a81c">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_ba29d5697d6d80204ae2e80dddc22160bbf2dc32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rikik\.android\build-cache\71e0745f783f231c9369b7db7cb305eaf6a5dad7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cc5b65162cf57363b4a924805f16947660918cdf">
+        <dex dex="D:\LVTN2018\lvtn\android\app\build\intermediates\pre-dexed\debug\classes_5c0b6e3ad84b05070bcfbc2928501d2710bd3f1f.jar" />
     </item>
 
 </items>
