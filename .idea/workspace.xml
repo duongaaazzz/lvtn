@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af744b1a-e48e-459a-89d9-5c3351211b9c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/login/LoginContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/login/LoginContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/AppNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/AppNavigator.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AppNavigator.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AppNavigator.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/navigation/AppNavigator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="485">
+              <caret line="104" column="4" selection-start-line="99" selection-start-column="2" selection-end-line="104" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#43#69#0" expanded="true" />
@@ -44,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginContainer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginContainer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/login/LoginContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2373">
+            <state relative-caret-position="2385">
               <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -110,8 +110,8 @@
         <option value="$PROJECT_DIR$/src/components/home/DetailsCardEvent.js" />
         <option value="$PROJECT_DIR$/src/components/home/signUp/SignUpContainer.js" />
         <option value="$PROJECT_DIR$/src/constants/routeKey.js" />
-        <option value="$PROJECT_DIR$/src/navigation/AppNavigator.js" />
         <option value="$PROJECT_DIR$/src/components/login/LoginContainer.js" />
+        <option value="$PROJECT_DIR$/src/navigation/AppNavigator.js" />
       </list>
     </option>
   </component>
@@ -246,12 +246,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538659388417</updated>
-      <workItem from="1538659391499" duration="6106000" />
+      <workItem from="1538659391499" duration="6129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6106000" />
+    <option name="totallyTimeSpent" value="6129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -350,17 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/navigation/AppNavigator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#43#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/home/signUp/SignUpContainer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -370,8 +359,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/login/LoginContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2373">
+        <state relative-caret-position="2385">
           <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#43#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/navigation/AppNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="104" column="4" selection-start-line="99" selection-start-column="2" selection-end-line="104" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#69#0" expanded="true" />
