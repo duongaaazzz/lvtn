@@ -20,12 +20,17 @@ class AuthenticationContainer extends React.Component {
 
       if (this.props.navigation.state.params.success) {
         // very xong r
+
+        setTimeout(() => {
+          NavigationServices.navigate('MainTab')
+        }, 1500)
+
       } else {
         setTimeout(() => {
           NavigationServices.navigate(RouteKey.LoginScreen)
         }, 500)
       }
-    }else {
+    } else {
       setTimeout(() => {
         NavigationServices.navigate(RouteKey.LoginScreen)
       }, 500)
