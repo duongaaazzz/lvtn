@@ -12,5 +12,6 @@ export default {
   NowScreen: 'NowScreen',
   TypeScreen: 'TypeScreen',
   DetailsCardEvent: 'DetailsCardEvent',
-  Authentication: 'AuthenticationContainer'
+  Authentication: 'AuthenticationContainer',
+  VerificationContainer:'VerificationContainer'
 }

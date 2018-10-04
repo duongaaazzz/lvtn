@@ -7,6 +7,7 @@ import {createSwitchNavigator, createBottomTabNavigator, createMaterialTopTabNav
 import RouteKey from '../constants/routeKey';
 
 import LoginContainer from '../components/login/LoginContainer'
+import VerificationContainer from '../components/verification/VerificationContainer'
 import HomeContainer from '../components/home/HomeContainer'
 import HomeTabContainer from './HomeTabContainer'
 import ProfileContainer from '../components/profile/ProfileContainer'
@@ -102,6 +103,9 @@ export const AppNavigator = createSwitchNavigator({
   },
   [RouteKey.LoginScreen]: {
     screen: LoginContainer
+  },
+  [RouteKey.VerificationContainer]: {
+    screen: VerificationContainer
   },
   MainTab: {
     screen: MainTabContainer

@@ -12,6 +12,7 @@ import {
   StyleSheet,
   KeyboardAvoidingView,
   ActivityIndicator,
+  Alert,
   Modal
 } from 'react-native'
 import NavigationServices from '../../navigation/NavigationServices'
@@ -19,14 +20,14 @@ import Entypo from 'react-native-vector-icons/Entypo';
 
 import RouteKey from '../../constants/routeKey'
 import {blackColor, blueColor} from '../../constants/color';
-import {sendVerificationPhoneNumber} from '../../utilities/ApiManager';
+import {sendVerificationPhoneNumber, validateVerificationCode} from '../../utilities/ApiManager';
 
-class LoginContainer extends React.Component {
+class VerificationContainer extends React.Component {
 
   constructor() {
     super();
     this.state = {
-      numberPhone: '',
+      code: '',
       isLoading: false
     }
   }
@@ -35,19 +36,25 @@ class LoginContainer extends React.Component {
     this.setState({[type]: text});
   }
 
-  authorization = () => {
+  verification = () => {
 
     this.setState({
       isLoading: true
     })
 
+    const numberPhone = this.props.navigation.state !== undefined && this.props.navigation.state.params !== undefined && this.props.navigation.state.params.numberPhone
 
-
-    sendVerificationPhoneNumber('+84', this.state.numberPhone).then(resss => {
-
-      if (resss) {
-        NavigationServices.navigate(RouteKey.VerificationContainer, {numberPhone: this.state.numberPhone})
-
+    validateVerificationCode('+84', numberPhone, this.state.code).then(resss => {
+      if (resss.success) {
+        //
+        console.log(resss)
+        NavigationServices.navigate(RouteKey.Authentication, {success: true})
+      }else {
+        Alert.alert(
+          'Warning',
+          'Very code error', [
+            { text: 'OK', style: 'cancel' },
+          ])
       }
     })
 
@@ -61,7 +68,7 @@ class LoginContainer extends React.Component {
 
 
         <View style={styles.titileWrapper}>
-          <Text style={styles.text}>Login</Text>
+          <Text style={styles.text}>Verification</Text>
         </View>
         <View style={styles.inputWrapper}>
           {/*<TextInput*/}
@@ -78,31 +85,24 @@ class LoginContainer extends React.Component {
           <TextInput
             style={styles.textInput}
             keyboardType='numeric'
-            maxLength={11}  //setting limit of input
-            placeholder="Number phone"
+            maxLength={4}  //setting limit of input
+            placeholder="Code"
             returnKeyType="done"
             ref={(input) => (this.numberPhone = input)}
             // onSubmitEditing={}
             placeholderTextColor="gray"
             underlineColorAndroid="transparent"
-            onChangeText={(text) => this.setState({numberPhone: text})}
+            onChangeText={(text) => this.setState({code: text})}
           />
         </View>
         <View style={styles.buttonsWrapper}>
-          <View style={{alignItems: 'center'}}>
-            <View style={{flexDirection: 'row'}}>
-              <Text style={styles.text}> Forgot your login details? </Text>
-              <TouchableOpacity>
-                <Text style={styles.link}> Get help </Text>
-              </TouchableOpacity>
-            </View>
-          </View>
+
           <View style={{flexDirection: 'row', alignContent: 'center'}}>
             <TouchableOpacity style={styles.button}
-                              onPress={() => this.authorization()}
+                              onPress={() => this.verification()}
             >
               {
-                !this.state.isLoading ? <Text style={styles.buttonLable}>Log in | Sign up</Text> :
+                !this.state.isLoading ? <Text style={styles.buttonLable}>Very code</Text> :
                   <ActivityIndicator size={'small'} color='white'/>
               }
 
@@ -199,4 +199,4 @@ const styles = StyleSheet.create({
 })
 
 
-export default connect(state => ({}), dispatch => ({}))(LoginContainer);
+export default connect(state => ({}), dispatch => ({}))(VerificationContainer);

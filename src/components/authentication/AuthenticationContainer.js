@@ -10,28 +10,43 @@ import NavigationServices from '../../navigation/NavigationServices'
 
 import RouteKey from '../../constants/routeKey'
 import {grayColor} from '../../constants/color';
+import {sendVerificationPhoneNumber} from '../../utilities/ApiManager';
 
 class AuthenticationContainer extends React.Component {
 
 
   componentDidMount() {
-    setTimeout(() => {
-      NavigationServices.navigate(RouteKey.LoginScreen)
-    }, 500)
+    if (this.props.navigation.state !== undefined && this.props.navigation.state.params !== undefined) {
+
+      if (this.props.navigation.state.params.success) {
+        // very xong r
+      } else {
+        setTimeout(() => {
+          NavigationServices.navigate(RouteKey.LoginScreen)
+        }, 500)
+      }
+    }else {
+      setTimeout(() => {
+        NavigationServices.navigate(RouteKey.LoginScreen)
+      }, 500)
+    }
   }
 
 
   render() {
+
+
     return (
       <View style={{
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center'
       }}>
-        <Text>check token</Text>
+        <Text>check token done</Text>
 
         <ActivityIndicator size="small" color={grayColor}/>
 
+        {/*<Text></Text>*/}
 
       </View>
     )
