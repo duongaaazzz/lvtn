@@ -36,7 +36,7 @@ function getOne(req, res, next) {
         })
 }
 function createUser(req, res, next) {
-    db.none("INSERT INTO users(username, password, email, phone, date_joined) VALUES (${username}, ${password}, ${email}, ${phone}, ${date_joined})", req.body)
+    db.none("INSERT INTO users(username, password, email, phone) VALUES (${username}, ${password}, ${email}, ${phone})", req.body)
         .then(function (data) {
             res.status(200)
                 .json({
@@ -48,7 +48,20 @@ function createUser(req, res, next) {
             return next(err);
         })
 }
-function Edit(req, res, next) { }
+function editUserInfor(req, res, next) {
+    db.none("UPDATE users SET username = ${username}, password = ${password}, email=${email}, phone=${phone}) where id = '"+req.params.id+"'", req.body)
+        .then(function (data) {
+            res.status(200)
+                .json({
+                    status: 'success',
+                    message: 'successfuly update user infor'
+                });
+        })
+        .catch(function (err) {
+            return next(err);
+        })
+ }
+
 function Delete(req, res, next) { }
 
 function getEvents(req, res, next) {
@@ -69,7 +82,7 @@ function getEvents(req, res, next) {
 module.exports = {
     getList: getList,
     getOne: getOne,
-    Edit: Edit,
+    editUserInfor: editUserInfor,
     Delete: Delete,
     createUser: createUser,
     getEvents: getEvents,

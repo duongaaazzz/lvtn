@@ -10,7 +10,7 @@ router.get('/', function(req,res){
 router.get('/api/users', db.getList);
 router.get('/api/users/:id', db.getOne);
 router.post('/api/users', db.createUser);
-// router.put('/api/users/:userID', db.Edit);
+router.put('/api/users/:userID', db.editUserInfor);
 // router.delete('/api/users/:userID', db.Delete);
 
 //events
