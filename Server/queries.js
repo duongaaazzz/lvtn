@@ -3,7 +3,7 @@ var options = {
     promiseLib: promise
 }
 var pgp = require('pg-promise')(options)
-var connectString = 'postgres://postgres:1212@localhost:5432/yoloDatabase';
+var connectString = 'postgres://postgres:1212@35.221.80.112:22/yoloDatabase';
 var db = pgp(connectString);
 
 function getList(req, res, next) {
